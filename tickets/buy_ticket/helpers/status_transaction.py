@@ -4,6 +4,7 @@ from enum import Enum
 class StatusTransaction(Enum):
 
     APC = 'authorized_pending_capture'
+    PD = 'paid'
     NA = 'not_authorized'
     CA = 'captured'
     PC = 'partial_capture'

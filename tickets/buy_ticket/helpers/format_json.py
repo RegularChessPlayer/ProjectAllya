@@ -13,3 +13,4 @@ def result_json_theater(theater):
                                      'tickets': ticket_serializer.data})
     json_result['teatro'] = theater_serializer.data
     return json_result
+
