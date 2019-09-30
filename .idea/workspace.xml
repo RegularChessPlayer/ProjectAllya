@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfee790-bb18-4685-b39c-b42dfb1b46e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/manager_ticket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ProjectAllya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjectAllya.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/helpers/format_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/format_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/helpers/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/helpers/status_transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/status_transaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickets/tickets/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/tickets/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,17 +35,22 @@
           <entry key="gitignore" value="2" />
           <entry key="html" value="9" />
           <entry key="json" value="1" />
-          <entry key="py" value="119" />
+          <entry key="md" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="120" />
           <entry key="pyi" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="7" />
+          <entry key="Image" value="1" />
           <entry key="JSON" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="122" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="123" />
           <entry key="PythonStub" value="1" />
           <entry key="XHTML" value="2" />
         </counts>
@@ -63,14 +60,16 @@
           <entry key="Python Console" value="1172" />
           <entry key="css" value="22" />
           <entry key="html" value="1051" />
-          <entry key="py" value="9894" />
+          <entry key="md" value="1449" />
+          <entry key="py" value="9912" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="22" />
           <entry key="HTML" value="919" />
-          <entry key="Python" value="11066" />
+          <entry key="Markdown" value="1449" />
+          <entry key="Python" value="11084" />
           <entry key="XHTML" value="132" />
         </counts>
       </usages-collector>
@@ -81,14 +80,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1030">
-              <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+            <state relative-caret-position="119">
+              <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
                 <marker date="1569819591491" expanded="true" signature="542:742" ph="..." />
                 <marker date="1569819591491" expanded="true" signature="796:927" ph="..." />
                 <marker date="1569819591491" expanded="true" signature="1242:1720" ph="..." />
                 <marker date="1569819591491" expanded="true" signature="2102:2103" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+                <marker date="1569822818467" expanded="true" signature="369:420" ph="..." />
               </folding>
             </state>
           </provider>
@@ -108,10 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-294">
+            <state relative-caret-position="255">
               <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -122,6 +134,23 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="318">
+                <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,14 +207,15 @@
         <option value="$PROJECT_DIR$/tickets/buy_ticket/helpers/status_transaction.py" />
         <option value="$PROJECT_DIR$/tickets/buy_ticket/helpers/manager_ticket.py" />
         <option value="$PROJECT_DIR$/tickets/buy_ticket/helpers/serializers.py" />
-        <option value="$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py" />
         <option value="$PROJECT_DIR$/tickets/buy_ticket/views.py" />
+        <option value="$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="640" />
+    <option name="width" value="1235" />
     <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,17 +231,6 @@
             <path>
               <item name="ProjectAllya" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectAllya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectAllya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectAllya" type="462c0819:PsiDirectoryNode" />
-              <item name="tickets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectAllya" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectAllya" type="462c0819:PsiDirectoryNode" />
-              <item name="tickets" type="462c0819:PsiDirectoryNode" />
-              <item name="buy_ticket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,18 +342,18 @@
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27946126" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2777778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3956229" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32996634" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3956229" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32996634" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32996634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -418,15 +437,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tickets/clientes/migrations/0001_initial.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/distlib/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tickets/clientes/admin.py" />
     <entry file="file://$PROJECT_DIR$/tickets/estaticos/style.css" />
     <entry file="file://$PROJECT_DIR$/tickets/__init__.py" />
     <entry file="file://$PROJECT_DIR$/tickets/my_templates/pessoa.html" />
@@ -680,30 +690,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-            <marker date="1569818939773" expanded="true" signature="369:420" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1030">
-          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-            <marker date="1569819591491" expanded="true" signature="542:742" ph="..." />
-            <marker date="1569819591491" expanded="true" signature="796:927" ph="..." />
-            <marker date="1569819591491" expanded="true" signature="1242:1720" ph="..." />
-            <marker date="1569819591491" expanded="true" signature="2102:2103" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$USER_HOME$/Desktop/Captura de Tela 2019-09-30 às 02.48.31.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/helpers/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -717,9 +708,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+            <marker date="1569819591491" expanded="true" signature="542:742" ph="..." />
+            <marker date="1569819591491" expanded="true" signature="796:927" ph="..." />
+            <marker date="1569819591491" expanded="true" signature="1242:1720" ph="..." />
+            <marker date="1569819591491" expanded="true" signature="2102:2103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/helpers/credit_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <marker date="1569822818467" expanded="true" signature="369:420" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tickets/buy_ticket/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
+        <state relative-caret-position="255">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -728,6 +744,16 @@
             <marker date="1569714284572" expanded="true" signature="330:982" ph="..." />
             <marker date="1569714284572" expanded="true" signature="1389:1390" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="318">
+            <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

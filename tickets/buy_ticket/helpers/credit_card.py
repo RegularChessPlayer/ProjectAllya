@@ -22,7 +22,7 @@ class CreditCardHelper:
         credit_card.installments = 2
         credit_card.statement_descriptor = "test descriptor"
         credit_card.card = create_card_request.CreateCardRequest()
-        credit_card.card.number = SUCESSO
+        credit_card.card.number = data['card_number']
         credit_card.card.holder_name = data['card_name']
         credit_card.card.exp_month = data['card_exp_month']
         credit_card.card.exp_year = data['card_exp_year']
